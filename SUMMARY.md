@@ -1,17 +1,21 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Introduction
-
-* [Quickstart](introduction/quickstart.md)
-* [Publish your docs](introduction/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [📢 INTRODUCTION](README.md)
+* [🐱 CAT BATTLE](cat-battle/README.md)
+  * [📚 Game Story](cat-battle/game-story.md)
+  * [🎮 Gameplay](cat-battle/gameplay.md)
+  * [⚡ Cat Promotion](cat-battle/cat-promotion.md)
+  * [🤑 Airdrop](cat-battle/airdrop.md)
+  * [🛍️ Cat Battle Shop](cat-battle/cat-battle-shop.md)
+  * [👽 Enemies & Boss](cat-battle/enemies-and-boss.md)
+  * [🏝️ Map](cat-battle/map.md)
+* [👑 CAT CHALLENGE](cat-challenge/README.md)
+  * [🎮 Gameplay](cat-challenge/gameplay.md)
+  * [🥇 Challenge](cat-challenge/challenge.md)
+  * [👨‍👦‍👦 Multiplayers](cat-challenge/multiplayers.md)
+* [🎰 CAT LUCKY](cat-lucky/README.md)
+  * [Gameplay](cat-lucky/gameplay.md)
+* [💸 CAT NFTs](cat-nfts.md)
+* [▶️ PLAYS HUB](plays-hub.md)
+* [🪙 Tokenomic](tokenomic.md)
+* [🗺️ Roadmap](roadmap.md)
