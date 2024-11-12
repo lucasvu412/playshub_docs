@@ -6,7 +6,7 @@
   * [🎮 Gameplay](cat-battle/gameplay.md)
   * [🥚 Break Eggs](cat-battle/break-eggs.md)
   * [⚡ Cat Promotion](cat-battle/cat-promotion.md)
-  * [🤑 Leaderboard](cat-battle/leaderboard.md)
+  * [🏆 Cat Power Rank](cat-battle/cat-power-rank.md)
   * [🛍️ Cat Battle Shop](cat-battle/cat-battle-shop.md)
   * [👽 Enemies & Boss](cat-battle/enemies-and-boss.md)
   * [🏝️ Map](cat-battle/map.md)
