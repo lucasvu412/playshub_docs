@@ -12,4 +12,4 @@ Players can gather over 1,000 Shards to unlock the chance to mint exclusive item
 
 Take advantage of this exciting feature and enhance your roster with powerful new Cats by breaking eggs today!&#x20;
 
-<figure><img src="../.gitbook/assets/eggs.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eggs (1).jpg" alt=""><figcaption></figcaption></figure>
