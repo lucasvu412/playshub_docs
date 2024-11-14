@@ -16,4 +16,4 @@ In the _Cat Promotion_ feature, you have the chance to elevate your Cat Hero’s
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/cat promotion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
