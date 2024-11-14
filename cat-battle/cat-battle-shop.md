@@ -9,3 +9,6 @@ The shop offers a variety of items like Gold, Gems, and Shards to help you power
 * **Gold and Gems**: Use Gold and Gems to enhance your Cat’s stats, purchase in-game items, and secure upgrades that will strengthen your defense.
 * **Shards**: Collect and purchase Shards to mint unique new Cats with a chance to unlock Cats of higher rarity.
 * **VIP Packages**: For players seeking an extra advantage, the shop offers VIP packages that automate certain upgrades, giving you a faster and more seamless way to power up your Cat Hero without needing manual input.
+*
+
+    <figure><img src="../.gitbook/assets/shop (1).png" alt=""><figcaption></figcaption></figure>
