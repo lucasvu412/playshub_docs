@@ -17,6 +17,7 @@
   * [🏆 Trophy Rank](cat-challenge/trophy-rank.md)
   * [🥇 PvP League](cat-challenge/pvp-league.md)
 * [🎰 CAT LUCKY](cat-lucky/README.md)
+  * [Gameplay](cat-lucky/gameplay.md)
   * [🎁 Rewards](cat-lucky/rewards.md)
   * [💯 Score Rank](cat-lucky/score-rank.md)
 * [💸 CAT NFTs](cat-nfts.md)
