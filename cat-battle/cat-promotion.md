@@ -14,6 +14,4 @@ In the _Cat Promotion_ feature, you have the chance to elevate your Cat Hero’s
 
 ⚠️ Note: Success depends on the materials selected. If unsuccessful, the materials will be used, and promotion won’t be achieved.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cat-promotion.jpg" alt=""><figcaption></figcaption></figure>
