@@ -1,3 +1,7 @@
+---
+description: The web3 game publishing platform!
+---
+
 # 📖 Structure
 
 Overall, PLAYS Hub is a web3 game publishing platform that leverages blockchain technology and decentralized systems to create new monetization opportunities for developers and players.&#x20;

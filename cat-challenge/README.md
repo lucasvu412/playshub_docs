@@ -1,5 +1,5 @@
 ---
-description: The Ultimate PvP Experience on Telegram
+description: The Ultimate PvP Experience on Telegram!
 ---
 
 # 👑 CAT CHALLENGE
@@ -8,4 +8,4 @@ Welcome to **Cat Challenge**, the very first real-time, turn-based PvP game on T
 
 Easy to access and quick to play, **Cat Challenge** brings the excitement of competitive gaming directly to your Telegram app, creating an immersive experience like never before. Ready to claim victory in the ultimate showdown of feline prowess?
 
-Anh Hùng design thêm cái Banner ngang cho con này
+<figure><img src="../.gitbook/assets/slidepvp 1.png" alt=""><figcaption></figcaption></figure>
