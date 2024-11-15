@@ -10,4 +10,5 @@ Players who achieve high ranks in the daily leaderboard receive PLAYS coins as s
 
 Take on the challenge, strengthen your Cat Hero, and claim your spot as a top defender in the battle against alien invaders!
 
-<figure><img src="../.gitbook/assets/cat-power-rank.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/catpower.jpg" alt=""><figcaption></figcaption></figure>
+
