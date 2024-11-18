@@ -21,21 +21,23 @@ Welcome to the PLAYS Hub!
 
 ## Our Vision
 
-To build a WEB3 game publishing platform that leverages blockchain technology and decentralized systems to create new monetization opportunities for developers and players.
-
-## Game Hub
-
-Key features of these games include a rich storyline with in-depth gameplay, real-time PvP challenges, true ownership through NFTs, AI-powered features, and diverse monetization models, such as play-to-earn, play-to-airdrop, watch ads to earn, and task-based earning systems.
+To build a cutting-edge Web3 game publishing platform that leverages blockchain technology and decentralized systems to deliver an exceptional gaming experience through captivating storylines, immersive and in-depth gameplay, real-time PvP challenges, true digital ownership via NFTs, and innovative monetization models.
 
 ## Information
 
-🎮 Play on Telegram Bot: https://t.me/playshubbot
+🎮 Play on Telegram Bot: [https://t.me/playshubbot](https://t.me/playshubbot)
 
-📢 Telegram Announcement: https://t.me/PlayshubAnn
+📝 White Paper with full details: [https://docs.playshub.io](https://docs.playshub.io/)
 
-&#x20;𝕏   X Channel: https://x.com/PlaysHub
+👨‍💻 Github: [https://github.com/playshub/playshub-ton](https://github.com/playshub/playshub-ton)
 
-🌐  Website: https://playshub.io
+📢 Telegram Announcement: [https://t.me/PlayshubAnn](https://t.me/PlayshubAnn)
+
+&#x20;𝕏   X Channel: [https://x.com/PlaysHub](https://x.com/PlaysHub)
+
+🌐 Website: [https://playshub.io](https://playshub.io/)
+
+📩 Contact to Team: [https://t.me/lucasvux](https://t.me/lucasvux)
 
 
 
