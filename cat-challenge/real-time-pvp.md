@@ -8,5 +8,5 @@ Engage in epic battles as you control your Cat Hero and master the art of aiming
 
 In each match, players need to adjust their shooting angle and strength, taking into account wind direction and speed, to land accurate shots on the opposing Cat. Skills honed in **Cat Battle** come to life here, as you harness your Cat Power—built from prior upgrades—to gain a competitive edge in battle. Strategy and timing are key, as players can leverage their Cat’s specific abilities to gain advantages, surprise opponents, and secure victories.
 
-Ảnh Gameplay để Hoà chụp từ Game
+<figure><img src="../.gitbook/assets/pvp-play.jpg" alt=""><figcaption></figcaption></figure>
 
