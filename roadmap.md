@@ -4,11 +4,7 @@ description: The project is working on this roadmap!
 
 # 🗺️ Roadmap
 
-Exciting times ahead! We're currently working on an incredible roadmap, and one of the highlights is the upcoming minting of the CAT NFTs. These unique and powerful NFTs will soon be available, adding a whole new dimension to your gameplay experience. Stay tuned for more updates and get ready to level up your CAT heroes!
+We are advancing our project according to a well-structured roadmap with key milestones, including minting Cat NFTs, launching a Marketplace for trading Cat NFTs, collaborating with Web2 games to bring more games to the Hub, acquiring millions of users, conducting PLAYS Token and collaboring with partners and venture capitalists to scale the project effectively. Stay tuned for more updates and get ready to level up your CAT heroes!
 
-<figure><img src=".gitbook/assets/slide-roadmap1 - Copy.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/slide-roadmap2 - Copy.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/slide-roadmap3.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -30,3 +30,4 @@
   * [🔥 Token Utility](tokenomic/token-utility.md)
   * [⭐ Token Engagement](tokenomic/token-engagement.md)
 * [🗺️ Roadmap](roadmap.md)
+* [🧖‍♂️ Team](team.md)
