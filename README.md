@@ -29,8 +29,6 @@ To build a cutting-edge Web3 game publishing platform that leverages blockchain 
 
 📝 White Paper with full details: [https://docs.playshub.io](https://docs.playshub.io/)
 
-👨‍💻 Github: [https://github.com/playshub/playshub-ton](https://github.com/playshub/playshub-ton)
-
 📢 Telegram Announcement: [https://t.me/PlayshubAnn](https://t.me/PlayshubAnn)
 
 &#x20;𝕏   X Channel: [https://x.com/PlaysHub](https://x.com/PlaysHub)
